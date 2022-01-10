@@ -1,2 +1,2 @@
 # three.js
-Creating a 3D website using three.js 
+Create a 3D website using three.js 
